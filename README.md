@@ -67,3 +67,17 @@ D:\ChatClient>java ChatClient localhost 8181
 Run Client-3:(opne new command prompt)<br>
 D:\ChatClient>java ChatClient localhost 8181
 <br><br>
+Screen Shot refrence:
+Server:
+![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/ServerWindow.JPG)
+
+Client-1:
+![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/Chat_User1.JPG)
+
+Client-2:
+![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/Chat_User2.JPG)
+
+Client-3:
+![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/Chat_User3.JPG)
+
+Thanks You:
