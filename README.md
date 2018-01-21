@@ -71,13 +71,13 @@ D:\ChatClient>java ChatClient localhost 8181
 Server:
 ![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/ServerWindow.JPG)
 <br>
-<p>Client-1:</p>
+Client-1:
 ![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/Chat_User1.JPG)
 <br>
-<p>Client-2:</p>
+Client-2:
 ![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/Chat_User2.JPG)
 <br>
-<p>Client-3:</p>
+Client-3:
 ![alt tag](https://github.com/sendkumaranil/SocketProgramming/blob/master/Chat_User3.JPG)
 <br>
 Thanks You:
